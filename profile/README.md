@@ -8,3 +8,4 @@ Based in Paris, we install, maintain and improve Decidim in order to make it eff
 
 ## You'd like to join us?
 - See our opened positions [here](https://opensourcepolitics.eu/offres-demploi/)
+
