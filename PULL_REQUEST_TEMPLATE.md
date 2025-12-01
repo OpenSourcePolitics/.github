@@ -19,7 +19,7 @@ Example:
 #### Tasks
 - [ ] Add specs
 - [ ] If override, add note about overrides in [Clean overrides #184](https://github.com/orgs/OpenSourcePolitics/projects/26/views/1?filterQuery=assignee%3A%40me&pane=issue&itemId=134077121&issue=OpenSourcePolitics%7Cintern-tasks%7C184)
-- [ ] If override, add the label "override" in your github card
+- [ ] If override, add the label "override" in your PR and ISSUE (intern-task)
 - [ ] In case of new dependencies or version bump, update related documentation
 
 #### :camera: Screenshots
