@@ -23,9 +23,7 @@ Example:
 #### :hammer_and_wrench: If your PR introduces or updates an Override
 - [ ] Add the label "override:pending" in your PR
 - [ ] Add the corresponding label based on the review deadline category (_when this override must be checked_):
-  - WHEN BACKPORT 0.29 · 
-  - WHEN BACKPORT 0.30 · 
-  - BEFORE MIGRATION 0.30 · 
+  - WHEN BACKPORT 0.29 ·  
   - BEFORE MIGRATION 0.31 · 
   - WAITING FOR PR UPSTREAM · 
   - OTHER
